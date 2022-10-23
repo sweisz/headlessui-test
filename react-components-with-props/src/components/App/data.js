@@ -1,4 +1,4 @@
-export default [
+const Animals = [
   {
     name: "Lion",
     scientificName: "Panthero leo",
@@ -26,3 +26,5 @@ export default [
     },
   },
 ];
+
+export default Animals;
